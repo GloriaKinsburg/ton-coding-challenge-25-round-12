@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/TON-NFT-2-0-2655274bd2cf807291edda0280c42e59
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @MintyPastry
+2. 你的主网 TON 钱包地址 = UQCePjtywUa4tsN8hLR-p4WjO-Do0J0KuXAvJuXkkLFUZn5j
 
 
 ## 任务：构思 NFT 版权方案
@@ -31,5 +31,7 @@ https://t.me/toneachat
 2. 你的方案有什么优势？
 3. 你的方案有什么取舍和不足？
 
-
+描述：NFT 持有人获得订阅式版权，每月/年支付费用维持使用权。
+优势：为作者带来持续收入。
+不足：不适合收藏属性强的 NFT。
 
